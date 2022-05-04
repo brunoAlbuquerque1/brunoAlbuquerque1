@@ -1,4 +1,4 @@
-# Ola prazer em conhece-lo ?
+# Ola prazer em conhece-lo !
 ## Eu sou Bruno Albuquerque 
 <div align="center">
   <a href="https://github.com/brunoAlbuquerque1">
