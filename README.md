@@ -1,5 +1,5 @@
 # Ola prazer em conhece-lo !
-## Eu sou Bruno Albuquerque 
+## Eu sou Bruno Albuquerque desenvolvedor front-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="albuquerque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
